@@ -1,1 +1,2 @@
-Deposit -2000$
+Deposit 2000$
+Deposit of negative money fixed
